@@ -5,7 +5,7 @@ This is a simple python script to download all the accepted submissions from cod
 ## Setup
 Open terminal and run
 
-1. ```git clone github.com/RahulKraken/cf-fisher````
+1. ```git clone github.com/RahulKraken/cf-fisher```
 
 2. ```./init.sh```
 
